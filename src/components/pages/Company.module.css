@@ -1,0 +1,11 @@
+.company{
+    width: 300px; 
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 20px;
+    border:1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+   
+}

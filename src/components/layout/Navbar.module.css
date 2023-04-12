@@ -1,0 +1,40 @@
+.navbar{
+  text-align: center;
+  
+}
+
+.list {
+  display:flex;
+  list-style: none;
+  position: fixed;
+  background-color: rgb(71, 87, 87);
+  bottom: 0;
+  transform: translate(-20px, -20px);
+  border-radius: 15px;
+  font-size: 55px;
+  margin-left:45px;
+  
+  
+  
+  
+
+}
+.item{
+  padding: 15px;
+  
+}
+
+.item:hover{
+  background-color: aliceblue;
+  border-radius: 15px;
+}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "name": "dsdsd",
+      "budget": "32323",
+      "payment": "PIX",
+      "category": {
+        "id": "1",
+        "name": "LIMPEZA"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "LIMPEZA"
+    },
+    {
+      "id": 2,
+      "name": "ENCANADOR"
+    },
+    {
+      "id": 3,
+      "name": "ELETRICISTA"
+    },
+    {
+      "id": 4,
+      "name": "MARCENEIRO"
+    }
+  ]
+}

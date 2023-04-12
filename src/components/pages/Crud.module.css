@@ -1,0 +1,23 @@
+.crud{
+    
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1em;
+  
+}
+.crud label {
+    margin-bottom: 0.6em;
+    font-weight: bold;
+    padding: 10px;
+  }
+  
+  .crud input {
+    padding: 0.7em;
+    border-radius: 0;
+    border: none;
+    padding: 10px;
+  }
+  
+  .crud input::placeholder {
+    color: #7b7b7b;
+  }
