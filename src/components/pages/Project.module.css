@@ -10,7 +10,7 @@
 }
 
 .project_details h1 {
-  background-color: #180874;
+  background-color: #232323;
   color: #f1eee8;
   padding: 0.4em;
   border-radius: 10px;
@@ -43,7 +43,7 @@
 }
 
 .btn:hover {
-  color: #6351ce;
+  color: #232323;
 }
 
 .form {

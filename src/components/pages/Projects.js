@@ -50,7 +50,7 @@ function Projects() {
       .then((resp) => resp.json())
       .then((data) => {
         setProjects(projects.filter((project) => project.id !== id))
-        setProjectMessage('Projeto removido com sucesso!')
+        setProjectMessage('Serviço removido com sucesso!')
       })
   }
 
@@ -76,7 +76,7 @@ function Projects() {
           ))}
         {!removeLoading && <Loading />}
         {removeLoading && projects.length === 0 && (
-          <p>Não há projetos cadastrados!</p>
+          <p>Não há serviços cadastrados!</p>
         )}
       </Container>
     </div>

@@ -1,16 +1,28 @@
 {
   "projects": [
     {
-      "name": "dsdsd",
-      "budget": "32323",
+      "name": "Pia entupida",
+      "budget": "50",
       "payment": "PIX",
+      "category": {
+        "id": "2",
+        "name": "ENCANADOR"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "limpeza da cozinha",
+      "budget": "200",
+      "payment": "credito",
       "category": {
         "id": "1",
         "name": "LIMPEZA"
       },
       "cost": 0,
       "services": [],
-      "id": 1
+      "id": 3
     }
   ],
   "categories": [

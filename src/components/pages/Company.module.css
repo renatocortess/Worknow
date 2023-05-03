@@ -1,4 +1,9 @@
-.company{
+.global{
+    height: 1000px;
+    background-color: rgb(12, 15, 14);
+}
+
+.company {
     width: 300px; 
     margin-left: auto;
     margin-right: auto;
@@ -7,5 +12,52 @@
     border:1px solid black;
     border-radius: 10px;
     padding: 20px;
+    background-color: rgb(245, 245, 245);
    
 }
+.card{
+    width: 300px; 
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 20px;
+    border:1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: rgb(247, 248, 248);
+    font-size: 20px;
+    transition: transform 0.2s ease-in-out;
+    
+}
+.card p {
+    margin-top: 10px;
+}
+.card:hover{
+    transform: scale(1.05);
+}
+.card img{
+    width: 50%;
+    border-radius: 50%;
+}
+.card button{
+    width: 100px;
+    margin-left: 15px;
+}
+.card select{
+    width: 70px;
+    height: 30px;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+h2 span{
+    color: rgb(238, 242, 6);
+    background-color: black;
+    border-radius: 90px;
+    padding: 7px;
+}
+.card textarea{
+    margin-top: 15px;
+    width: 90%;
+}
+

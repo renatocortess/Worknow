@@ -7,7 +7,7 @@
   display:flex;
   list-style: none;
   position: fixed;
-  background-color: rgb(71, 87, 87);
+  background-color: #232323;
   bottom: 0;
   transform: translate(-20px, -20px);
   border-radius: 15px;
