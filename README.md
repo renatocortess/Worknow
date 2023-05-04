@@ -12,7 +12,7 @@ caso der erro no passo anterior digite : $env:NODE_OPTIONS = "--openssl-legacy-p
 em caso de erro, feche os terminais e refaça o processo a partir do topico 6
 caso o projeto abra, vá ate o navegador e baixe a extensão a seguir https://chrome.google.com/webstore/detail/simulateur-mobile/ckejmhbmlajgoklhgbapkiccekfoccmk?hl=pt-BR
 
-após baixar, clice com o botão direito na pagina do projeto e habilite a extensão.
+após baixar, clique com o botão direito na pagina do projeto e habilite a extensão.
 
 
 
