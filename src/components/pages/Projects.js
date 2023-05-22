@@ -59,7 +59,16 @@ function Projects() {
       <div className={styles.title_container}>
         <h1>Meus Serviços</h1>
         <LinkButton to="/newproject" text="Novo Serviço" />
+        
       </div>
+      <div className={styles.fidelizacao}>
+        <h2>Quer economizar no seu serviço? assine nosso plano Card</h2>
+        <br></br>
+        <LinkButton to="/fidelizacao" text="Worknow Card" />
+        
+        </div>
+      
+      
       {message && <Message type="success" msg={message} />}
       {projectMessage && <Message type="success" msg={projectMessage} />}
       <Container customClass="start">

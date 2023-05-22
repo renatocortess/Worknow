@@ -1,0 +1,43 @@
+.fidelizacao {
+    text-align: center;
+    padding: 20px;
+    border:1px solid black;
+    height: 1000px;
+  }
+  
+  .subscriptionplans {
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+    gap: 20px;
+    
+    
+  }
+  
+  .subscriptionplan {
+    border: 1px solid #0a0000;
+    padding: 20px;
+    text-align:center;
+    
+    
+  }
+  
+  .subscriptionplan h2 {
+    margin-bottom: 10px;
+  }
+  
+  .subscriptionplan .price {
+    font-size: 20px;
+    font-weight: bold;
+    
+  }
+  
+  .subscriptionplan button {
+    margin-top: 10px;
+    background-color: #177fee;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }

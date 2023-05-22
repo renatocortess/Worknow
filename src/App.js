@@ -9,6 +9,8 @@ import Company from './components/pages/Company'
 import Contact from './components/pages/Contact'
 import Project from './components/pages/Project'
 import Crud from './components/pages/Crud'
+import Fidelizacao from './components/pages/Fidelizacao'
+
 function App() {
   return (
     <Crud/>,
@@ -30,6 +32,8 @@ function App() {
            
           
           <Route path="/contact" element={<Contact />}></Route>
+
+          <Route path="/fidelizacao" element={<Fidelizacao/>}></Route>
             
           
           <Route path="/newproject" element={<NewProject />}></Route>
